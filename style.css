@@ -1,0 +1,72 @@
+
+*{
+    box-sizing: border-box;
+}
+
+
+nav {
+    background-color: gray;
+    color: black;
+    
+}
+nav ul{
+    position: relative;
+}
+
+
+
+nav ul li {
+    display: inline-block;
+    padding: 40px;
+}
+
+#sec1{
+   
+    margin-left:200px;
+}
+
+
+div {
+    display: inline-block;
+}
+
+ #sec2 {
+
+   position: relative;
+   float: right;
+   padding: 200px;
+ }
+
+   #sec3 img {
+        width: 50%;
+       float :left;
+       margin-right: 30px;
+    }
+ 
+    #sec3 p {
+     
+     float: right;
+     margin-left: 200px;
+     width: 400px;
+    overflow: scroll;
+  }
+    
+  
+     button{
+         margin-top: 100px;
+     }
+     button:hover {
+        background-color: 350ms color transition;
+      }
+ 
+
+footer{
+    background-color: gray;
+    margin-top: 100px;
+}
+
+
+
+
+
+
